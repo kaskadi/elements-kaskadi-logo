@@ -1,6 +1,9 @@
 name: img-processing
 
-on: [push]
+on:
+  push:
+    paths:
+      - '**.svg'
 
 jobs:
   build:
