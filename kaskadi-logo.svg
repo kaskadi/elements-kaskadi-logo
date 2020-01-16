@@ -1,7 +1,7 @@
 <svg viewBox="0 0 100 100" width="1000px" height="1000px" xmlns="http://www.w3.org/2000/svg">
   <g transform="translate(50, 50)">
     <g>
-      <circle cx="0" cy="-44" r="4" fill="dodgerblue"/>
+      <circle cx="0" cy="-44" r="4.5" fill="dodgerblue"/>
       <circle cx="0" cy="-33" r="2.5" fill="#663399"/>
     </g>
     <g transform="rotate(22.5)">
