@@ -15,6 +15,9 @@
       "files": [{
         "src": "kaskadi-logo.svg",
         "dest": "imgs/icons/{branch}kaskadi-logo.svg"
+      },{
+        "src": "kaskadi-logo.png",
+        "dest": "imgs/icons/{branch}kaskadi-logo.png"
       }]
     }
   },
