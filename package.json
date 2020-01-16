@@ -14,10 +14,10 @@
     "s3-push": {
       "files": [{
         "src": "kaskadi-logo.svg",
-        "dest": "imgs/icons/kaskadi-logo.svg"
+        "dest": "imgs/icons/{branch}kaskadi-logo.svg"
       }, {
         "src": "kaskadi-logo-2.svg",
-        "dest": "imgs/icons/{version}kaskadi-logo-2.svg"
+        "dest": "imgs/icons/{branch}kaskadi-logo-2.svg"
       }]
     }
   },
