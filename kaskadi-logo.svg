@@ -3,7 +3,7 @@
     <g id="quarter">
       <g id="base-circles">
         <circle cx="0" cy="-44" r="4" fill="dodgerblue"/>
-        <circle cx="0" cy="-33" r="2.5" fill="rebeccapurple"/>
+        <circle cx="0" cy="-33" r="2.5" fill="#663399"/>
       </g>
       <use xlink:href="#base-circles" transform="rotate(22.5)"/>
       <use xlink:href="#base-circles" transform="rotate(45)"/>
