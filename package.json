@@ -1,0 +1,31 @@
+{
+  "name": "kaskadi-logo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "push.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaskadi/kaskadi-logo.git"
+  },
+  "kaskadi": {
+    "s3-push": {
+      "files": [{
+        "src": "kaskadi-logo.svg",
+        "dest": "imgs/icons/kaskadi-logo.svg"
+      }, {
+        "src": "kaskadi-logo-2.svg",
+        "dest": "imgs/icons/{version}kaskadi-logo-2.svg"
+      }]
+    }
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaskadi/kaskadi-logo/issues"
+  },
+  "homepage": "https://github.com/kaskadi/kaskadi-logo#readme"
+}
