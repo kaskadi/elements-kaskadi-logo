@@ -1,0 +1,13 @@
+name: img-processing
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Convert to PNG
+      run: mogrify -format png -resize 200 -background none kaskadi-logo.svg
