@@ -2,6 +2,9 @@ name: img-processing
 
 on:
   push:
+    branches:
+      - master
+      - release/**
     paths:
       - '**.svg'
 
