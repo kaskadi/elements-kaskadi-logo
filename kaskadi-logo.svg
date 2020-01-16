@@ -1,16 +1,68 @@
-<svg viewBox="0 0 100 100" width="1000px" height="1000px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg viewBox="0 0 100 100" width="1000px" height="1000px" xmlns="http://www.w3.org/2000/svg">
   <g transform="translate(50, 50)">
-    <g id="quarter">
-      <g id="base-circles">
-        <circle cx="0" cy="-44" r="4.5" fill="dodgerblue"/>
-        <circle cx="0" cy="-33" r="2.5" fill="#663399"/>
-      </g>
-      <use xlink:href="#base-circles" transform="rotate(22.5)"/>
-      <use xlink:href="#base-circles" transform="rotate(45)"/>
-      <use xlink:href="#base-circles" transform="rotate(67.5)"/>
+    <g>
+      <circle cx="0" cy="-44" r="4.5" fill="dodgerblue"/>
+      <circle cx="0" cy="-33" r="2.5" fill="#663399"/>
     </g>
-    <use xlink:href="#quarter" transform="rotate(90)" />
-    <use xlink:href="#quarter" transform="rotate(180)" />
-    <use xlink:href="#quarter" transform="rotate(270)" />
+    <g transform="rotate(22.5)">
+      <circle cx="0" cy="-44" r="4.5" fill="dodgerblue"/>
+      <circle cx="0" cy="-33" r="2.5" fill="#663399"/>
+    </g>
+    <g transform="rotate(45)">
+      <circle cx="0" cy="-44" r="4.5" fill="dodgerblue"/>
+      <circle cx="0" cy="-33" r="2.5" fill="#663399"/>
+    </g>
+    <g transform="rotate(67.5)">
+      <circle cx="0" cy="-44" r="4.5" fill="dodgerblue"/>
+      <circle cx="0" cy="-33" r="2.5" fill="#663399"/>
+    </g>
+    <g transform="rotate(90)">
+      <circle cx="0" cy="-44" r="4.5" fill="dodgerblue"/>
+      <circle cx="0" cy="-33" r="2.5" fill="#663399"/>
+    </g>
+    <g transform="rotate(112.5)">
+      <circle cx="0" cy="-44" r="4.5" fill="dodgerblue"/>
+      <circle cx="0" cy="-33" r="2.5" fill="#663399"/>
+    </g>
+    <g transform="rotate(135)">
+      <circle cx="0" cy="-44" r="4.5" fill="dodgerblue"/>
+      <circle cx="0" cy="-33" r="2.5" fill="#663399"/>
+    </g>
+    <g transform="rotate(157.5)">
+      <circle cx="0" cy="-44" r="4.5" fill="dodgerblue"/>
+      <circle cx="0" cy="-33" r="2.5" fill="#663399"/>
+    </g>
+    <g transform="rotate(180)">
+      <circle cx="0" cy="-44" r="4.5" fill="dodgerblue"/>
+      <circle cx="0" cy="-33" r="2.5" fill="#663399"/>
+    </g>
+    <g transform="rotate(202.5)">
+      <circle cx="0" cy="-44" r="4.5" fill="dodgerblue"/>
+      <circle cx="0" cy="-33" r="2.5" fill="#663399"/>
+    </g>
+    <g transform="rotate(225)">
+      <circle cx="0" cy="-44" r="4.5" fill="dodgerblue"/>
+      <circle cx="0" cy="-33" r="2.5" fill="#663399"/>
+    </g>
+    <g transform="rotate(247.5)">
+      <circle cx="0" cy="-44" r="4.5" fill="dodgerblue"/>
+      <circle cx="0" cy="-33" r="2.5" fill="#663399"/>
+    </g>
+    <g transform="rotate(270)">
+      <circle cx="0" cy="-44" r="4.5" fill="dodgerblue"/>
+      <circle cx="0" cy="-33" r="2.5" fill="#663399"/>
+    </g>
+    <g transform="rotate(292.5)">
+      <circle cx="0" cy="-44" r="4.5" fill="dodgerblue"/>
+      <circle cx="0" cy="-33" r="2.5" fill="#663399"/>
+    </g>
+    <g transform="rotate(315)">
+      <circle cx="0" cy="-44" r="4.5" fill="dodgerblue"/>
+      <circle cx="0" cy="-33" r="2.5" fill="#663399"/>
+    </g>
+    <g transform="rotate(337.5)">
+      <circle cx="0" cy="-44" r="4.5" fill="dodgerblue"/>
+      <circle cx="0" cy="-33" r="2.5" fill="#663399"/>
+    </g>
   </g>
 </svg>
