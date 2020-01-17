@@ -1,1 +1,3 @@
-# kaskadi-logo
+# kaskadi-logo preview
+
+![](kaskadi-logo.svg)
