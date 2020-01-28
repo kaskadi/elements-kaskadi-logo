@@ -23,7 +23,11 @@
   },
   "license": "UNLICENSED",
   "keywords": [],
-  "author": "",
+  "author": "Klimapartner GmbH <kontakt@klimapartner.de> (https://klimapartner.de)",
+  "contributors": [
+    "Holger Will <h.will@klimapartner.de>",
+    "Alexis Lemaire <a.lemaire@klimapartner.de>"
+  ],
   "bugs": {
     "url": "https://github.com/kaskadi/kaskadi-logo/issues"
   },
