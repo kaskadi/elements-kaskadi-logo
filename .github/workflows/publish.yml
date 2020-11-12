@@ -1,4 +1,4 @@
-name: img-processing
+name: publish
 on:
   push:
     branches:
@@ -12,7 +12,7 @@ env:
   AWS_KEY_SECRET: ${{ secrets.AWS_KEY_SECRET }}
   BUCKET: ${{ secrets.S3_PUBLIC_BUCKET }}
 jobs:
-  build:
+  publish:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v1
